@@ -1,1 +1,1 @@
-web: gunicorn finddata.wsgi
+web: gunicorn simple.wsgi
